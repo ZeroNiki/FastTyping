@@ -39,7 +39,7 @@ venv\bin\activate
 install requirements:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
